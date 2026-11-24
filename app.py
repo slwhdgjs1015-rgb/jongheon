@@ -373,6 +373,6 @@ if r:
 # 화면 오른쪽 하단 제작자 표기
 st.markdown(
     "<div style='text-align:right; font-size:12px; color:#7a6a4f;'>"
-    "Made by 김수만. 2026.11.20</div>",
+    "Made by 이종헌. 2026.11.24</div>",
     unsafe_allow_html=True,
 )
